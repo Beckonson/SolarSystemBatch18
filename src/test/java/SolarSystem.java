@@ -9,6 +9,12 @@ public class SolarSystem {
         xros.Color="pink";
         xros.temp="23243243243234k";
         xros.Size="234243432432432424miles";
+
+        Planet2 gecko=new Planet2();
+        gecko.color="magenta";
+        gecko.temp="5345345645k";
+        gecko.size="343435435m";
+
     }
 
 }
